@@ -71,7 +71,7 @@ def room_meeting():
         room_adventure()
     else:
         print "I won't comment on that %r. You're out" % (name)
-        exit (0)
+        exit (0) #Actually I wanted to do the "dead" statement, but then ne "%"-command doesn't work. So i used exit
 
 
 
