@@ -134,8 +134,7 @@ def last_room():
     if choice == "pizza":
         print "You have a good taste! Now go out and do other things than just sitting in front of your computer. That's sad."
         exit (0)
-    elif choice == "s
-    aghetti":
+    elif choice == "spaghetti":
         print "Eat the spaghetti to forgetti your regretti. No do something with your friends."
     elif choice == "fries":
         print "Not my first choice, but well...Now go get some awesome food and turn on Netflix."
