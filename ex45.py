@@ -17,7 +17,7 @@ class Engine(object):
 
         current_scene.enter()
 
-class Scene (object): # keine ahnung was die klasse soll/kann
+class Scene (object):
 
     def enter(self):
         print "?"
